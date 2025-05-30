@@ -43,7 +43,7 @@ Dominar su implementación manual permite construir una base sólida para luego 
 
 ```bash
 .
-├── algoritmos-busqueda.ipynb   # Notebook principal con las clases y pruebas
+├── Algoritmos_de_Busqueda_C2_2025.ipynb   # Notebook principal con las clases y pruebas
 ├── graph1.txt                  # Grafo para DFS y BFS (sin pesos)
 ├── graph2.txt                  # Grafo para UCS (con pesos)
 └── README.md                   # Este archivo
