@@ -1,0 +1,10 @@
+A B 21
+A C 12
+A D 13
+C E 10
+C F 5
+C G 44
+D H 99
+D I 13
+D J 11
+F M 10
